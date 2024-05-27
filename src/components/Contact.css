@@ -1,0 +1,44 @@
+/* Contact.css */
+.contact-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .teut {
+   background-color: rgb(90, 81, 81);
+  }
+
+  .br {
+    margin-bottom: 10p;
+  }
+
+  .text-ork div {
+    margin-bottom: 10px;
+  }
+
+  .bgbuy {
+    background-color: rgb(147, 182, 136);
+  }
+  .buy {
+    text-align: center;
+  }
+  /* Додайте інші стилі за потреби для адаптивного дизайну */
+  /* Наприклад, використовуйте медіа-запити для адаптації стилів для різних розмірів екранів */
+  
+  /* Приклад для медіа-запитів: */
+  @media (max-width: 768px) {
+  .contact-container {
+    max-width: 100%;
+    padding: 10px;
+  }
+  
+  /* Додайте інші стилі для адаптивного дизайну на малих екранах */
+  }
+  @media (max-width: 768px) {
+  .menu-item {
+    /* Змінені стилі для кожного пункту меню на телефонах */
+    margin: 10px;
+  }
+  }
+ 
